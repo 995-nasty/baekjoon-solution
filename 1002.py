@@ -1,3 +1,4 @@
+# 아직 다 못품
 import math as m
 
 T = int(input())
@@ -12,7 +13,7 @@ for _ in range(T):
     
     if r > R:
         print(2)
-    elif r == R or :
+    elif r == R or : 
         print(1)
     else:
         print(0)
