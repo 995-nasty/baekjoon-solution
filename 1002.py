@@ -11,9 +11,11 @@ for _ in range(T):
     r =m.sqrt(k+j)
     R = a+b
     
+    '''
     if r > R:
         print(2)
-    elif r == R or : 
+    elif r == R or 
         print(1)
     else:
         print(0)
+'''
